@@ -1,2 +1,2 @@
 # CariahMerryHarbringerOfXmas
-2D Action Platformer featuring legally distinct Cariah Merry! :) lol
+2D Action Platformer featuring legally distinct Cariah Merry
